@@ -1,5 +1,0 @@
-ftp -n <<EOF
-open ftp.domain
-user domain şifre
-put XX.tar.gz
-EOF
